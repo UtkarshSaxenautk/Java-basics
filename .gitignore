@@ -1,0 +1,10 @@
+configuration
+dropins
+features
+p2
+plugins
+.eclipseproduct
+eclipse.exe
+eclipse.ini
+eclipsec.exe
+epl-v10.html
